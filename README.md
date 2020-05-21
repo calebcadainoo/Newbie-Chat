@@ -1,6 +1,6 @@
-# newbie
+# Newbie Chat
 
-A new Flutter project.
+A chat mobile app in Flutter.
 
 ## Getting Started
 
